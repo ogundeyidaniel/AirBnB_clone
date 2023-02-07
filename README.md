@@ -13,7 +13,7 @@ Implementation Phase
 Front-end design (use a console to rep front end using cmd module)
 Back-end design (Use OOP concepts, classes, methods and attributes, inheritance, and polymorphism)
 Database (file storage use json module)
-Testing-> unittest module
+Testing-> unittest module.
 ======================================================================================================
 .
                Analysis Phase (Airbnb)
